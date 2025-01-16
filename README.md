@@ -5,7 +5,7 @@ Hello class! This is where I will share files with you for the class, and where 
 
 - - - -
 
-###Jounal Submittals:
+### Jounal Submittals:
   - pdf format
   - Due Friday of the current week by end of day
   - $${\color{red}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
