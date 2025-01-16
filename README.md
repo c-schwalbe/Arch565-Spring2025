@@ -7,7 +7,7 @@ Jounal Submittals:
   - pdf format
   - Due Friday of the current week by end of day
 ```diff
-- - file names should be in the following format: "Computational Journal - Your Name - YYMMDD"
+- file names should be in the following format: "Computational Journal - Your Name - YYMMDD"
 ```
   
 
