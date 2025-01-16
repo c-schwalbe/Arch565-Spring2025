@@ -6,7 +6,14 @@ Hello class! This is where I will share files with you for the class, and where 
 Jounal Submittals:
   - pdf format
   - Due Friday of the current week by end of day
-  - file names should be in the following format: "Computational Journal - Your Name - YYMMDD"
+```diff
+- - file names should be in the following format: "Computational Journal - Your Name - YYMMDD"
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+  
 
 - - - -
 
