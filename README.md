@@ -8,10 +8,6 @@ Jounal Submittals:
   - Due Friday of the current week by end of day
 ```diff
 - - file names should be in the following format: "Computational Journal - Your Name - YYMMDD"
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 ```
   
 
