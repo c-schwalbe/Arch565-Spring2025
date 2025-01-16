@@ -6,7 +6,7 @@ Hello class! This is where I will share files with you for the class, and where 
 Jounal Submittals:
   - pdf format
   - Due Friday of the current week by end of day
-  - $${\color{red}file names should be in the following format: "Computational Journal - Frist Name Last Name - YYMMDD"$$
+  - $$ {\color{red}file names should be in the following format: "Computational Journal - Frist Name Last Name - YYMMDD" $$
 ```diff
 - file names should be in the following format: "Computational Journal - Frist Name Last Name - YYMMDD"
 ```
