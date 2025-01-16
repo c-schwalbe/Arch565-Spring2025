@@ -14,7 +14,7 @@ Jounal Submittals:
 - - - -
 
 ## Additional Rsources
-This list is in no way exhaustive, but a short list of things I have found along the way of my own journey. I have a ton more to share but the list started to get long.
+This list is in no way exhaustive, but a short list of things I have found along the way of my own journey. I have a ton more to share and will add to the list as we go through the semester.
 
 ### 2D Graphics
   - The Vignelli Cannon - https://www.rit.edu/vignellicenter/sites/rit.edu.vignellicenter/files/documents/The%20Vignelli%20Canon.pdf
