@@ -8,7 +8,7 @@ Jounal Submittals:
   - Due Friday of the current week by end of day
   - $${\color{red}FILE NAMES MUST BE IN THE FOLLOWING FORMAT:}$$
 ```diff
--"Computational Journal - Frist Name Last Name - YYMMDD"
+"Computational Journal - Frist Name Last Name - YYMMDD"
 ```
 
 - - - -
