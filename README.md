@@ -3,7 +3,9 @@ Arch 565 - Spring 2025
 
 Hello class! This is where I will share files with you for the class, and where you can upload your journals each week. This content can also live on the server in the school, but I think it is more fun to share this way!
 
-Jounal Submittals:
+- - - -
+
+###Jounal Submittals:
   - pdf format
   - Due Friday of the current week by end of day
   - $${\color{red}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
