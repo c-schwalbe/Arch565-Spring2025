@@ -47,6 +47,7 @@ This list is in no way exhaustive, but a short list of things I have found along
   - Addins / programming - The Building Coder - https://thebuildingcoder.typepad.com/
 
 ### Grasshopper
+  - McNeel Forum - https://discourse.mcneel.com/c/grasshopper/2
   - The Man Himself - David Rutten - https://ieatbugsforbreakfast.wordpress.com/
   - Kangaroo - Daniel Piker - https://spacesymmetrystructure.wordpress.com/
 
