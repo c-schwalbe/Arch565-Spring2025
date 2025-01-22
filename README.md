@@ -29,6 +29,13 @@ This list is in no way exhaustive, but a short list of things I have found along
 ### Arch Viz
   - CG Architect - https://www.cgarchitect.com/
 
+#### Arch Viz - Faviorite Studios
+  - Playtime - https://www.play-time.es
+  - mir - https://www.mir.no/work
+  - Judi Wang - https://jeudi.wang
+  - KVAN1 - https://kvant1.no
+  - Brick Visual - https://brickvisual.com/#homestart
+
 ### Learning
   - ATN - https://archi-tech.network/
   - Think Parametric - https://www.thinkparametric.com/
